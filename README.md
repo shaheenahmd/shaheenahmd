@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shaheen ahammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shaheen ahammed" height="30" width="40" /></a>
-<a href="https://dev.to/shaheenahmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shaheenahmd" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shaheen-ahammed/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaheen ahammed k" height="30" width="40" /></a>
-<a href="https://www.behance.net/shaheen ahmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shaheen ahmd" height="30" width="40" /></a>
+<a href="https://codepen.io/shaheen ahammed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shaheen ahammed" height="30" width="40" /></a>
+<a href="https://dev.to/shaheenahmd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shaheenahmd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaheen-ahammed/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaheen ahammed k" height="30" width="40" /></a>
+<a href="https://www.behance.net/shaheenahmd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shaheen ahmd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
